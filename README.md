@@ -16,3 +16,6 @@ Those with a higher muscle mass, such as athletes, may have a high BMI but not b
 Those with a lower muscle mass, such as children who have not completed their growth or the elderly who may be 
 losing some muscle mass may have a lower BMI. During pregnancy and lactation, a woman's body composition changes, 
 so using BMI is not appropriate.
+
+# Reference
+https://en.wikipedia.org/wiki/Body_mass_index
